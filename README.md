@@ -62,7 +62,7 @@
 <h3 align="center"> Support: </h3>
 
   * <i> Channel </i>: [@Star_X_Network](https://t.me/Star_X_Network) <br>
-  * <i> Support </i>: [@Best_FriendsFor_Ever](https://t.me/Best_FriendsFor_Ever)
+  * <i> Support </i>: [@Best_FriendsFor_Ever](https://t.me/Star_X_Support)
 
 ----
 
