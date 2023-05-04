@@ -6,12 +6,12 @@
         "telegram",
         "PYROGRAM",
         "telegram-bot",
-        "RiZoeLXSpam",
+        "StarXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/Starboihacks369/SpamX",
-  "website": "https://github.com/Starboihacks369",
-  "success_url": "https://t.me/its_star_robot",
+  "repository": "https://github.com/itz-star-boi/SpamX",
+  "website": "https://github.com/itz-star-boi",
+  "success_url": "https://t.me/its_star_boi",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
