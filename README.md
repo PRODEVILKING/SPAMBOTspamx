@@ -27,11 +27,11 @@
 > The easy way to host this bot, deploy to Heroku 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/its-star-boi/SpamX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itz-star-boi/SpamX)
 
 <h4> Local Hosting </h4>
 
-<i> First Fork The [Repo](https://github.com/its-star-boi/SpamX) </i>
+<i> First Fork The [Repo](https://github.com/itz-star-boi/SpamX) </i>
 <br>
 <i> Now Rename semple.env as .env And Fill Your Values </i>
 
@@ -62,7 +62,7 @@
 <h3 align="center"> Support: </h3>
 
   * <i> Channel </i>: [@Star_X_Network](https://t.me/Star_X_Network) <br>
-  * <i> Support </i>: [@Best_FriendsFor_Ever](https://t.me/Star_X_Support)
+  * <i> Support </i>: [@Star_X_Support](https://t.me/Star_X_Support)
 
 ----
 
