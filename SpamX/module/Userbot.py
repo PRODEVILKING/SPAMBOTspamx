@@ -27,7 +27,7 @@ star += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 star += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
 star += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/Star_X_Network)\n"
 star += f"━───────╮•╭───────━\n\n"
-star += f"➠ **Source Code:** [•Repo•](https://github.com/its-star-boi/SpamX)"
+star += f"➠ **Source Code:** [•Repo•](https://github.com/itz-star-boi/SpamX)"
 
 
 async def get_time(seconds: int) -> str:
