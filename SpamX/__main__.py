@@ -86,11 +86,11 @@ if StarX18:
 if StarX19:
     StarX19.start()
     StarX19.join_chat("Star_X_Network")
-    StarX19.join_chat("Best_FriendsFor_Ever")
+    StarX19.join_chat("Star_X_Support")
 if StarX20:
     StarX20.start()
     StarX20.join_chat("Star_X_Network")
-    StarX20.join_chat("Best_FriendsFor_Ever")
+    StarX20.join_chat("Star_X_Support")
 
 print("Your Spam Bots Successfully Deployed ✅")
 print("Visit -! @Star_X_Network")
