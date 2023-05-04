@@ -1,6 +1,6 @@
-GRP = "@Best_FriendsFor_Ever"
+GRP = "@Star_X_Support"
 
-GROUP = [-1001621682412]
+GROUP = [-1001981660077]
 
 RiZoeLX = [5463205082]
 
