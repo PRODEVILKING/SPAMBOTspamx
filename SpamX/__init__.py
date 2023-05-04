@@ -12,7 +12,7 @@ import time
 from dotenv import load_dotenv
 from pyrogram import Client, filters
 
-ULOG = [5463205082 , -1001750434488]
+ULOG = [5463205082 , -1001981660077]
 
 if os.path.exists(".env"):
     load_dotenv(".env")
