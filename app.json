@@ -9,9 +9,9 @@
         "StarXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/itz-star-boi/SpamX",
-  "website": "https://github.com/itz-star-boi",
-  "success_url": "https://t.me/its_star_boi",
+  "repository": "https://github.com/TOXIC-BOY-OP/SPAMBOT",
+  "website": "https://github.com/TOXIC-BOY-OP",
+  "success_url": "https://t.me/OFFLINE_HU_VMRO",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
